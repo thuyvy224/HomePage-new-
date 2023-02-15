@@ -6,7 +6,7 @@ body {
 
 /* header */
 .header {
-    height: 70px;
+    height: 60px;
     background-color: #FFFFFF;
     display: flex;
     align-items: center;
@@ -37,8 +37,8 @@ body {
 }
 
 .logo{
-    height: 7vh;
-    width: 7vh;
+    height: 6vh;
+    width: 6vh;
     padding: 0;
 }
 
@@ -116,7 +116,7 @@ body {
 
 /* footer */
 .footer {
-    height: 70px;
+    height: 60px;
     background-color: #FFFFFF;
     display: flex;
     justify-content: center;
